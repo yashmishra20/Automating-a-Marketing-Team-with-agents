@@ -63,3 +63,9 @@ Let's create wonders together with the power and simplicity of crewAI.
 =======
 # Automating-a-Marketing-Team-with-agents
 >>>>>>> origin/master
+# Results:
+- Created a Multi-AI agent system using the CrewAi framework.
+- Configured agents like Market Researcher, Content Strategist, Visual Creator, and Copywriter for content strategy.
+- Researcher used Serper Tool and Python requests for data; Strategist made calendar; Visual Creator wrote descriptions.
+- Utilized Langchain, Langsmith, and WebBaseLoader for workflow management and web content extraction.
+- Employed models like GPT-4o and GPT-3.5 for automated content generation and strategy optimization..
